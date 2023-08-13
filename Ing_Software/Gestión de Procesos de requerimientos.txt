@@ -6,7 +6,9 @@ OBJETIVO GENERAL:
 OBJETIVOS ESPECIFICOS:
 
 
+3. Validación y Verificación: Desarrollar estrategias para validar y verificar los requerimientos, involucrando a los usuarios y stakeholders para asegurar que los requerimientos reflejen con precisión sus necesidades y expectativas.
 
+4. Gestión de Cambios: Establecer un sistema para gestionar cambios en los requerimientos a lo largo del proyecto, evaluando el impacto de los cambios propuestos y manteniendo la trazabilidad de las modificaciones.
 
 5.	Comunicación Efectiva: Establecer canales de comunicación claros y constantes entre el equipo de desarrollo, los usuarios y stakeholders, para asegurar una comprensión mutua y una retroalimentación constante sobre los requerimientos.
 6.	Seguimiento Continuo: Implementar mecanismos para el seguimiento continuo de los requerimientos a medida que evoluciona el proyecto, asegurando que las soluciones desarrolladas estén alineadas con los requisitos iniciales. 
