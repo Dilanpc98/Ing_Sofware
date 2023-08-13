@@ -1,5 +1,5 @@
 Introducción:
-La gestión de procesos de requerimientos es una disciplina esencial en el ámbito del desarrollo de software y la ingeniería de sistemas.Los requerimientos son la base sobre la cual se construye cualquier sistema o aplicación, ya que representan las necesidades y expectativas de los usuarios, clientes y stakeholders involucrados. 
+La gestión de procesos de requerimientos es una disciplina esencial en el ámbito del desarrollo de software y la ingeniería de sistemas.Los requerimientos son la base sobre la cual se construye cualquier sistema o aplicación, ya que representan las necesidades y expectativas de los usuarios, clientes y stakeholders involucrados. La adecuada gestión de estos requerimientos es crucial para garantizar la entrega de soluciones que cumplan con los criterios de calidad, funcionalidad y satisfacción de los usuarios. En este contexto, surge la importancia de implementar procesos eficientes y estructurados que permitan la captura, el análisis, la validación y la gestión continua de los requerimientos a lo largo de todo el ciclo de vida del proyecto.
 
 OBJETIVO GENERAL:
 
